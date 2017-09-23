@@ -11,7 +11,7 @@ bundle install
 To start the application run: 
 
 ```s
-./bin/weather_app
+./bin/api_app
 
 ```
 
